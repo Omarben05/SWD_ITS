@@ -1,0 +1,5 @@
+CREATE DATABASE Magazzino27
+ -- SALVA E CHIUDI CON GO :
+ GO 
+
+ 
