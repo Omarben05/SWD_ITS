@@ -1,0 +1,159 @@
+cd = change directory 
+ls  = lista mostra file all'interno
+touch = crea file
+mkdir= crea cartella
+
+nani = scrive dentro il file / editor
+
+cartella dev= contiene device sotto forma di file
+
+cartella sbin    = all'interno troviamo tutto a livello amministrativo che contiene comandi 
+prevalentemente per gli amministratori,
+
+cartella usr sbin = stessa cosa con cose degli utenti 
+/usr/bin contiene comandi aggiuntivi installati da pacchetti software aggiuntivi.
+
+il super utente = root
+
+cartella bin = i binary La directory /bin contiene una vasta gamma di comandi e 
+utility che sono essenziali per la gestione del sistema e per l'utilizzo di Linux da parte degli utenti.
+
+cd etc = in questa cartella sono memorizzate tutte le configurazioni 
+
+While the home directories of regular users are typically located in /home/USERNAME, 
+the root user's home directory is distinguished by its location at /root
+
+sotto /etc ci stanno le configurazioni
+/etc/ssh configurazioni delle chiavi ssh
+
+cat /etc/ssh/sshd_config   
+The sshd_config file is an ASCII text based file where the different configuration options 
+of the SSH server are indicated and configured with keyword/argument pairs.
+sshd_config is the configuration file for the OpenSSH server daemon (sshd) on Linux 
+
+
+ls - The most frequently used command in Linux to list directories
+pwd - Print working directory command in Linux
+cd - Linux command to navigate through directories
+mkdir - Command used to create directories in Linux
+mv - Move or rename files in Linux
+cp - Similar usage as mv but for copying files in Linux
+rm - Delete files or directories
+touch - Create blank/empty files
+ln - Create symbolic links (shortcuts) to other files
+clear - Clear the terminal display
+cat - Display file contents on the terminal  vedere contenuto file
+echo - Print any text that follows the command
+less - Linux command to display paged outputs in the terminal
+man - Access manual pages for all Linux commands
+uname - Linux command to get basic information about the OS
+whoami - Get the active username
+tar - Command to extract and compress files in linux
+grep - Search for a string within an output
+head - Return the specified number of lines from the top
+tail - Return the specified number of lines from the bottom
+diff - Find the difference between two files
+cmp - Allows you to check if two files are identical
+comm - Combines the functionality of diff and cmp
+sort - Linux command to sort the content of a file while outputting
+export - Export environment variables in Linux
+zip - Zip files in Linux
+unzip - Unzip files in Linux
+ssh - Secure Shell command in Linux
+service - Linux command to start and stop services
+ps - Display active processes
+kill and killall - Kill active processes by process ID or name
+df - Display disk filesystem information
+mount - Mount file systems in Linux
+chmod - Command to change file permissions
+chown - Command for granting ownership of files or folders
+ifconfig - Display network interfaces and IP addresses
+traceroute - Trace all the network hops to reach the destination
+wget - Direct download files from the internet
+ufw - Firewall command
+iptables - Base firewall for all other firewall utilities to interface with
+apt, pacman, yum, rpm - Package managers depending on the distribution
+sudo - Command to escalate privileges in Linux
+cal - View a command-line calendar
+alias - Create custom shortcuts for your regularly used commands
+dd - Majorly used for creating bootable USB sticks
+whereis - Locate the binary, source, and manual pages for a command
+whatis - Find what a command is used for
+top - View active processes live with their system usage
+useradd and usermod - Add a new user or change existing user data
+passwd - Create or update passwords for existing users
+
+
+
+i file di testo sono compressi su linux (come se fossero zippate) quando serve le espande
+
+
+ssh-keygen
+
+ssh-keygen -t ed     e tab
+
+ ssh-keygen -t ed25519 -C "chiave_omarbenagoub"
+Generating public/private ed25519 key pair.   
+
+Enter file in which to save the key (/home/omarbenagoub/.ssh/id_ed25519): /home/omarbenagoub/.ssh/chiaveomarbenagoub
+Created directory '/home/omarbenagoub/.ssh'.
+
+The key fingerprint is:
+SHA256:Hmk/rgnE+0m9bK8v8vON6f7JpCWsRkOSHXD8IOjSOVk chiave_omarbenagoub
+
+ssh-copy-id -i       -i   serve a indicare la chiave
+ssh-copy-id -i    e il percorso della chiave
+ssh-copy-id -i /home/omarbenagoub/.ssh/
+
+il punto .ssh perchè la cartella è nascosta
+
+ ssh-copy-id -i /home/omarbenagoub/.ssh/chiaveomarbenagoub.pub   e la macchina su cui vuoi salvare 
+
+ ssh -i C:\chiavilinux\chiaveomarbenagoub omarbenagoub@192.168.100.10      
+
+su W POWERSHELL ho usato ssh -i  percorso della chiave e utente@ipaddress      sono entrato da remoto sulla macchina ubuntu
+
+
+cron è un servizio di pianificazione automatica nei sistemi Linux/Unix. 
+Serve per eseguire comandi o script in modo automatico a intervalli di tempo regolari o in momenti specifici
+| Elemento                                | Funzione                                          |
+| --------------------------------------- | ------------------------------------------------- |
+| `crontab`                               	            | Comando per gestire i cron job                    |
+| `/etc/crontab`                                   | File di cron per tutto il sistema                 |
+| `/var/spool/cron/`                             | Dove si trovano i cron per ogni utente            |
+| `/etc/cron.hourly`, `/cron.daily`, ecc. | Script eseguiti ogni ora, giorno, settimana, ecc. |
+
+
+crontab -e   modifichi i propri cron job
+-l vedi quelli attivi
+-r rimuovi tutti i cron job
+
+tar è un comando usato per archiviare (e talvolta comprimere) file e directory in un singolo file chiamato archivio.
+
+È comunemente usato per creare backup o pacchetti da spostare o condividere.
+
+tar nomedelfiledidestinazione poi quelo che volete backuppare
+
+
+
+creare uno script che faccia il backup dela /home e salvarlo dentro una cartella creata chiamata /backup dentro la cartella /opt
+il backup deve essere fatto giornalmente alle 4  e non devono esserci pu di 7 file 
+
+
+creare un utente "app" che abbia la home in opt/app
+creare un file testo dentro la home di app che sia accessibile solo al vostro utente e ad app (permessi stretti)
+creare un utente "test" no sudo
+fare e usare chiave ssh una per ttti gli utenti coinvolti, se si puo fare.
+
+
+1. Creare un utente "app" con home in /opt/app
+bash
+Copia
+Modifica
+sudo useradd -m -d /opt/app app
+sudo passwd app  # opzionale: imposta una password
+
+omarbenagoub@SWD-2426-18:~$ sudo touch /opt/app/privato.txt
+omarbenagoub@SWD-2426-18:~$ sudo chown omarbenagoub:app /opt/app/privato.txt
+omarbenagoub@SWD-2426-18:~$ sudo chmod 660 /opt/app/privato.txt
+

@@ -1,0 +1,135 @@
+creare un utente "app" che abbia la home in opt/app
+creare un file testo dentro la home di app che sia accessibile solo al vostro utente e ad app (permessi stretti)
+creare un utente "test" no sudo
+fare e usare chiave ssh una per ttti gli utenti coinvolti, se si puo fare.    fino ad ora l'utente presente è omarbenagoub 
+
+
+#!/bin/bash
+
+# =========================================================
+# Script di configurazione per Ubuntu:
+# - Crea utenti: 'app' e 'test'
+# - Imposta home personalizzata per 'app'
+# - Crea file con permessi stretti tra 'omarbenagoub' e 'app'
+# - Configura una chiave SSH condivisa tra gli utenti
+# =========================================================
+
+# Imposta l'utente esistente principale (che esegue lo script)
+UTENTE_CORRENTE="omarbenagoub"
+
+# ================================
+# Funzione: crea un utente se non esiste
+# ================================
+crea_utente() {
+    local nome_utente="$1"
+    local home_dir="$2"
+    local no_sudo="$3"
+
+    if id "$nome_utente" &>/dev/null; then
+        echo "🔹 Utente '$nome_utente' già esistente. Nessuna azione necessaria."
+    else
+        echo "✅ Creazione utente '$nome_utente'..."
+        if [ -n "$home_dir" ]; then
+            sudo useradd -m -d "$home_dir" "$nome_utente"
+        else
+            sudo adduser --disabled-password --gecos "" "$nome_utente"
+        fi
+
+        # Rimuovi sudo se richiesto
+        if [ "$no_sudo" = "true" ]; then
+            sudo deluser "$nome_utente" sudo 2>/dev/null
+        fi
+    fi
+}
+
+# ================================
+# 1. Crea utente 'app' con home /opt/app
+# ================================
+crea_utente "app" "/opt/app"
+
+# ================================
+# 2. Crea file con permessi stretti in /opt/app
+# ================================
+FILE_PRIVATO="/opt/app/privato.txt"
+if [ ! -f "$FILE_PRIVATO" ]; then
+    echo "✅ Creazione file protetto '$FILE_PRIVATO'..."
+    sudo touch "$FILE_PRIVATO"
+    sudo chown "$UTENTE_CORRENTE:app" "$FILE_PRIVATO"
+    sudo chmod 660 "$FILE_PRIVATO"
+else
+    echo "🔹 Il file '$FILE_PRIVATO' esiste già. Nessuna azione."
+fi
+
+# ================================
+# 3. Crea utente 'test' senza sudo
+# ================================
+crea_utente "test" "" "true"
+
+# ================================
+# 4. Genera chiave SSH se non esiste
+# ================================
+SSH_KEY="/home/$UTENTE_CORRENTE/.ssh/id_rsa"
+if [ ! -f "$SSH_KEY" ]; then
+    echo "🔑 Generazione chiave SSH per '$UTENTE_CORRENTE'..."
+    sudo -u "$UTENTE_CORRENTE" ssh-keygen -t rsa -b 4096 -N "" -f "$SSH_KEY"
+else
+    echo "🔹 Chiave SSH già presente per '$UTENTE_CORRENTE'."
+fi
+
+# ================================
+# 5. Copia chiave pubblica in authorized_keys degli altri utenti
+# ================================
+PUB_KEY=$(cat "/home/$UTENTE_CORRENTE/.ssh/id_rsa.pub")
+
+aggiungi_chiave_ssh() {
+    local utente="$1"
+    local home_dir=$(eval echo "~$utente")
+    local ssh_dir="$home_dir/.ssh"
+    local auth_keys="$ssh_dir/authorized_keys"
+
+    echo "🔐 Configurazione chiave SSH per utente '$utente'..."
+
+    sudo mkdir -p "$ssh_dir"
+    sudo touch "$auth_keys"
+
+    # Aggiungi chiave se non già presente
+    if ! sudo grep -qF "$PUB_KEY" "$auth_keys"; then
+        echo "$PUB_KEY" | sudo tee -a "$auth_keys" > /dev/null
+        echo "✅ Chiave aggiunta per '$utente'."
+    else
+        echo "🔹 Chiave già presente per '$utente'."
+    fi
+
+    sudo chown -R "$utente:$utente" "$ssh_dir"
+    sudo chmod 700 "$ssh_dir"
+    sudo chmod 600 "$auth_keys"
+}
+
+# Applica chiave a utenti
+aggiungi_chiave_ssh "app"
+aggiungi_chiave_ssh "test"
+
+echo "🎉 Configurazione completata con successo."
+
+Apri il terminale e crea il file:
+
+bash
+Copia codice
+nano setup_utenti.sh
+Incolla dentro tutto lo script che ti ho fornito.
+
+✅ 2. Rendi lo script eseguibile
+bash
+Copia codice
+chmod +x setup_utenti.sh
+✅ 3. Esegui lo script
+Eseguilo come utente normale (non usare sudo per eseguire lo script, perché i comandi interni già usano sudo):
+
+bash
+Copia codice
+./setup_utenti.sh
+
+
+
+
+
