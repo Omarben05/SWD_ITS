@@ -1,0 +1,42 @@
+services:  # definisce i 3 servizi che vogliamo
+  web:  # il nostro servizio java
+    build: ./java-app  # costruisce l'immagine dalla cartella java-app
+    ports:
+      - "8081:8080"  # usa porta 8081 esterna invece di 8080
+    depends_on:
+      - db  # aspetta che il database sia pronto prima di avviarsi
+    environment:  # variabili d'ambiente per connettersi al db
+      - DB_HOST=db
+      - DB_NAME=testdb
+      - DB_USER=postgres
+      - DB_PASSWORD=password
+
+  db:  # il database postgresql
+    image: postgres:13  # usa l'immagine postgres versione 13
+    environment:  # configura il database
+      - POSTGRES_DB=testdb  # nome del database
+      - POSTGRES_USER=postgres  # utente
+      - POSTGRES_PASSWORD=password  # password
+    volumes:
+      - db_data:/var/lib/postgresql/data  # salva i dati in un volume
+    ports:
+      - "5432:5432"  # porta standard postgresql
+
+  dbgate:  # interfaccia grafica per il database
+    image: dbgate/dbgate:latest  # tool per gestire database via web
+    ports:
+      - "3000:3000"  # accessibile su localhost:3000
+    environment:  # configurazione automatica per connettersi a postgres
+      - CONNECTIONS=con1
+      - LABEL_con1=PostgreSQL
+      - SERVER_con1=db  # si connette al servizio "db"
+      - USER_con1=postgres
+      - PASSWORD_con1=password
+      - PORT_con1=5432
+      - ENGINE_con1=postgres@dbgate-plugin-postgres
+    depends_on:
+      - db
+
+volumes:
+  db_data:  # volume per conservare i dati del database
+

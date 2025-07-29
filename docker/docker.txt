@@ -1,0 +1,72 @@
+DOCKER
+
+cosa e container = classe implementazione di immagine = immagine = oggetto 
+blocco di tutto contiene il software, librerie, tutto cio
+che serve per fare funzionare un qualcosa
+
+UBUNTU 
+
+
+
+enagoub@SWD-2426-18:~$ ls
+google-chrome-stable_current_amd64.deb  lista_home.txt  progetto  script
+omarbenagoub@SWD-2426-18:~$ docker run -i -t ubuntu /bin/bash
+root@3286a5152c0d:/# ls
+bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+root@3286a5152c0d:/# cd boot
+root@3286a5152c0d:/boot# ls
+root@3286a5152c0d:/boot# cd /proc
+root@3286a5152c0d:/proc# ls
+1          cmdline    diskstats    interrupts  key-users    loadavg  mounts        self      thread-self  vmstat
+10         config.gz  dma          iomem       keys         locks    mtrr          softirqs  timer_list   zoneinfo
+acpi       consoles   driver       ioports     kmsg         mdstat   net           stat      tty
+buddyinfo  cpuinfo    execdomains  irq         kpagecgroup  meminfo  pagetypeinfo  swaps     uptime
+bus        crypto     filesystems  kallsyms    kpagecount   misc     partitions    sys       version
+cgroups    devices    fs           kcore       kpageflags   modules  schedstat     sysvipc   vmallocinfo
+root@3286a5152c0d:/proc# cd /dev/
+root@3286a5152c0d:/dev# ls
+console  core  fd  full  mqueue  null  ptmx  pts  random  shm  stderr  stdin  stdout  tty  urandom  zero
+root@3286a5152c0d:/dev# exit
+exit
+omarbenagoub@SWD-2426-18:~$ ls
+google-chrome-stable_current_amd64.deb  lista_home.txt  progetto  script
+omarbenagoub@SWD-2426-18:~$
+
+
+$ docker run -d -p 8080:80 docker/welcome-to-docker      spiegazione  run = usa -d = detatch -p = mappatura 
+delle porte lavora sulla porta 80  ,  nel repository di docker e si chiama welcome-to-docker 
+
+cosi ho creato un docker
+
+
+dockerhub = qui trovi tutti i server che puoi mettere dentro docker
+
+docker ps = fa vedere i container accesi
+docker ps -a = tutti anche spenti
+
+
+
+omarbenagoub@SWD-2426-18:~$ git clone https://github.com/docker/getting-started-todo-app
+Cloning into 'getting-started-todo-app'...
+remote: Enumerating objects: 207, done.
+remote: Counting objects: 100% (71/71), done.
+remote: Compressing objects: 100% (34/34), done.
+remote: Total 207 (delta 52), reused 37 (delta 37), pack-reused 136 (from 1)
+Receiving objects: 100% (207/207), 4.49 MiB | 12.81 MiB/s, done.
+Resolving deltas: 100% (101/101), done.
+omarbenagoub@SWD-2426-18:~$ cd getting-started-todo-app
+omarbenagoub@SWD-2426-18:~/getting-started-todo-app$
+omarbenagoub@SWD-2426-18:~/getting-started-todo-app$ docker compose watch
+
+## This Compose file provides the development environment for the todo app.
+
+docker compose down   stoppa e rimuove container
+
+
+POWERSHELL
+
+PS C:\Users\Omar.Benagoub> git clone https://github.com/docker/getting-started-todo-app
+PS C:\Users\Omar.Benagoub> cd getting-started-todo-app
+PS C:\Users\Omar.Benagoub\getting-started-todo-app> dir
+PS C:\Users\Omar.Benagoub\getting-started-todo-app> code .
+PS C:\Users\Omar.Benagoub\getting-started-todo-app> docker compose watch

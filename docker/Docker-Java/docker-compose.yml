@@ -1,0 +1,22 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "8080:8080"
+
+  frontend:
+    image: frontend-test
+    build:
+      context: ./FE
+      dockerfile: DockerfileFE
+    ports:
+      - "8081:80"
+    depends_on:
+      - backend
+
+  nostrodatabase:
+    image: mysql
+    environment:
+      -  MYSQL_ROOT_PASSWORD=rootpassword 
+    ports:
+      - 3309:3306
