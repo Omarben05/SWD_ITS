@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\bin\Debug\net8.0\Benagoub_Esercitazione2.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\bin\Debug\net8.0\Benagoub_Esercitazione2.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\bin\Debug\net8.0\Benagoub_Esercitazione2.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\bin\Debug\net8.0\Benagoub_Esercitazione2.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\bin\Debug\net8.0\Benagoub_Esercitazione2.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\refint\Benagoub_Esercitazione2.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\Benagoub_Esercitazione2.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione2\Benagoub_Esercitazione2\obj\Debug\net8.0\ref\Benagoub_Esercitazione2.dll

@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\bin\Debug\net8.0\Benagoub_Esercitazione.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\bin\Debug\net8.0\Benagoub_Esercitazione.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\bin\Debug\net8.0\Benagoub_Esercitazione.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\bin\Debug\net8.0\Benagoub_Esercitazione.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\bin\Debug\net8.0\Benagoub_Esercitazione.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\refint\Benagoub_Esercitazione.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\Benagoub_Esercitazione.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Benagoub_Esercitazione\Benagoub_Esercitazione\obj\Debug\net8.0\ref\Benagoub_Esercitazione.dll

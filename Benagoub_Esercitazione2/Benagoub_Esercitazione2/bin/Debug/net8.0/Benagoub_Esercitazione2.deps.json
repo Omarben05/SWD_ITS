@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Benagoub_Esercitazione2/1.0.0": {
+        "runtime": {
+          "Benagoub_Esercitazione2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Benagoub_Esercitazione2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

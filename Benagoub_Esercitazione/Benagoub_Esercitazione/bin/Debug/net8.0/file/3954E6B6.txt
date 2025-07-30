@@ -1,0 +1,9 @@
+Ordine: 3954E6B6 - Data: 30/06/2025 15:29:08
+Venditore: Omar Ben
+
+Prodotti:
+Codice	Nome	Quantità	Prezzo	Subtotale
+A001	Batteria	2	120,00 €	240,00 €
+A002	Filtro	1	45,00 €	45,00 €
+
+Totale ordine: 285,00 €

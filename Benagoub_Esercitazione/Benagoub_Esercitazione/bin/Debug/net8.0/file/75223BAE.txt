@@ -1,0 +1,9 @@
+Ordine: 75223BAE - Data: 30/06/2025 15:29:45
+Venditore: Omar Ben
+
+Prodotti:
+Codice	Nome	Quantità	Prezzo	Subtotale
+A001	Batteria	2	120,00 €	240,00 €
+A002	Filtro	1	45,00 €	45,00 €
+
+Totale ordine: 285,00 €
