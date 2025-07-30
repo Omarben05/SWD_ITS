@@ -1,0 +1,16 @@
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\bin\Debug\net8.0-windows\CalcolatriceGUI.exe
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\bin\Debug\net8.0-windows\CalcolatriceGUI.deps.json
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\bin\Debug\net8.0-windows\CalcolatriceGUI.runtimeconfig.json
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\bin\Debug\net8.0-windows\CalcolatriceGUI.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\bin\Debug\net8.0-windows\CalcolatriceGUI.pdb
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.csproj.GenerateResource.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.AssemblyInfoInputs.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.AssemblyInfo.cs
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\refint\CalcolatriceGUI.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.pdb
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.genruntimeconfig.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\ref\CalcolatriceGUI.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\CalcolatriceGUI\CalcolatriceGUI\obj\Debug\net8.0-windows\CalcolatriceGUI.frmCalcolatrice.resources
