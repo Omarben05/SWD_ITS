@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\bin\Debug\net8.0\FatturaAziendale.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\bin\Debug\net8.0\FatturaAziendale.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\bin\Debug\net8.0\FatturaAziendale.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\bin\Debug\net8.0\FatturaAziendale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\bin\Debug\net8.0\FatturaAziendale.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\refint\FatturaAziendale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\FatturaAziendale.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\FatturaAziendale\FatturaAziendale\obj\Debug\net8.0\ref\FatturaAziendale.dll
