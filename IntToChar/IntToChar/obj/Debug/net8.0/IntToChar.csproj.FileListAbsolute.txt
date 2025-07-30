@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\bin\Debug\net8.0\IntToChar.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\bin\Debug\net8.0\IntToChar.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\bin\Debug\net8.0\IntToChar.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\bin\Debug\net8.0\IntToChar.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\bin\Debug\net8.0\IntToChar.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\refint\IntToChar.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\IntToChar.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\IntToChar\IntToChar\obj\Debug\net8.0\ref\IntToChar.dll
