@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\bin\Debug\net8.0\SequenzaData.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\bin\Debug\net8.0\SequenzaData.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\bin\Debug\net8.0\SequenzaData.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\bin\Debug\net8.0\SequenzaData.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\bin\Debug\net8.0\SequenzaData.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\refint\SequenzaData.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\SequenzaData.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\SequenzaData\SequenzaData\obj\Debug\net8.0\ref\SequenzaData.dll
