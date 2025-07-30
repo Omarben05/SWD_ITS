@@ -1,0 +1,14 @@
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\bin\Debug\net8.0\ClassePersona.exe
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\bin\Debug\net8.0\ClassePersona.deps.json
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\bin\Debug\net8.0\ClassePersona.runtimeconfig.json
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\bin\Debug\net8.0\ClassePersona.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\bin\Debug\net8.0\ClassePersona.pdb
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.AssemblyInfoInputs.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.AssemblyInfo.cs
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.csproj.CoreCompileInputs.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\refint\ClassePersona.dll
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.pdb
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ClassePersona.genruntimeconfig.cache
+C:\Users\r.catalano.EDU-ITS\Desktop\EserciziC#\ClassePersona\ClassePersona\obj\Debug\net8.0\ref\ClassePersona.dll
