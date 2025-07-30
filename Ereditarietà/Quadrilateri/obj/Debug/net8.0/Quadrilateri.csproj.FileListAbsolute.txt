@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\bin\Debug\net8.0\Quadrilateri.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\bin\Debug\net8.0\Quadrilateri.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\bin\Debug\net8.0\Quadrilateri.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\bin\Debug\net8.0\Quadrilateri.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\bin\Debug\net8.0\Quadrilateri.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\refint\Quadrilateri.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\Quadrilateri.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Ereditarietà\Quadrilateri\obj\Debug\net8.0\ref\Quadrilateri.dll
