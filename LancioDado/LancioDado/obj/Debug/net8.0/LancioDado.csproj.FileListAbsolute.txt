@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\bin\Debug\net8.0\LancioDado.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\bin\Debug\net8.0\LancioDado.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\bin\Debug\net8.0\LancioDado.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\bin\Debug\net8.0\LancioDado.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\bin\Debug\net8.0\LancioDado.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\refint\LancioDado.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\LancioDado.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LancioDado\LancioDado\obj\Debug\net8.0\ref\LancioDado.dll

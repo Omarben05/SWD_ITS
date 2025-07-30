@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\bin\Debug\net8.0\Casuale.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\bin\Debug\net8.0\Casuale.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\bin\Debug\net8.0\Casuale.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\bin\Debug\net8.0\Casuale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\bin\Debug\net8.0\Casuale.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\refint\Casuale.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\Casuale.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Casuale\Casuale\obj\Debug\net8.0\ref\Casuale.dll
