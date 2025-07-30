@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\bin\Debug\net8.0\CalcoloCerchio.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\refint\CalcoloCerchio.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\CalcoloCerchio.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloCerchio\CalcoloCerchio\obj\Debug\net8.0\ref\CalcoloCerchio.dll

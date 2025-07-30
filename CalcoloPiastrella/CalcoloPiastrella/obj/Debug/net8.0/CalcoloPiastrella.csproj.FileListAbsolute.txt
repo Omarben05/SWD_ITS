@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\bin\Debug\net8.0\CalcoloPiastrella.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\bin\Debug\net8.0\CalcoloPiastrella.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\bin\Debug\net8.0\CalcoloPiastrella.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\bin\Debug\net8.0\CalcoloPiastrella.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\bin\Debug\net8.0\CalcoloPiastrella.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\refint\CalcoloPiastrella.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\CalcoloPiastrella.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\CalcoloPiastrella\CalcoloPiastrella\obj\Debug\net8.0\ref\CalcoloPiastrella.dll
