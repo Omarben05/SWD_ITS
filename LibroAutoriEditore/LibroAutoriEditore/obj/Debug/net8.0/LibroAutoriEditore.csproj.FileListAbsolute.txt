@@ -1,0 +1,5 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LibroAutoriEditore\LibroAutoriEditore\obj\Debug\net8.0\LibroAutoriEditore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LibroAutoriEditore\LibroAutoriEditore\obj\Debug\net8.0\LibroAutoriEditore.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LibroAutoriEditore\LibroAutoriEditore\obj\Debug\net8.0\LibroAutoriEditore.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LibroAutoriEditore\LibroAutoriEditore\obj\Debug\net8.0\LibroAutoriEditore.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\LibroAutoriEditore\LibroAutoriEditore\obj\Debug\net8.0\LibroAutoriEditore.sourcelink.json
