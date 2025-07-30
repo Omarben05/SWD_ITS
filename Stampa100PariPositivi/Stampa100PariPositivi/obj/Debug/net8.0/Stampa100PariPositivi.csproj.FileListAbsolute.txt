@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\bin\Debug\net8.0\Stampa100PariPositivi.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\bin\Debug\net8.0\Stampa100PariPositivi.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\bin\Debug\net8.0\Stampa100PariPositivi.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\bin\Debug\net8.0\Stampa100PariPositivi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\bin\Debug\net8.0\Stampa100PariPositivi.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\refint\Stampa100PariPositivi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\Stampa100PariPositivi.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Stampa100PariPositivi\Stampa100PariPositivi\obj\Debug\net8.0\ref\Stampa100PariPositivi.dll
