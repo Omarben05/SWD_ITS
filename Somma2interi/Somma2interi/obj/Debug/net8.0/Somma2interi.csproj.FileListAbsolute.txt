@@ -1,0 +1,15 @@
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\bin\Debug\net8.0\Somma2interi.exe
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\bin\Debug\net8.0\Somma2interi.deps.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\bin\Debug\net8.0\Somma2interi.runtimeconfig.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\bin\Debug\net8.0\Somma2interi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\bin\Debug\net8.0\Somma2interi.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.AssemblyInfoInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.AssemblyInfo.cs
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.csproj.CoreCompileInputs.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.sourcelink.json
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\refint\Somma2interi.dll
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.pdb
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\Somma2interi.genruntimeconfig.cache
+C:\Users\Omar.Benagoub\Desktop\EserciziC#\Somma2interi\Somma2interi\obj\Debug\net8.0\ref\Somma2interi.dll
